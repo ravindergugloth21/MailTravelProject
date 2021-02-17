@@ -34,7 +34,7 @@ If you fill out the information on the alert page you will get confirmation emai
  Hooks class contains the browser setup
  pom.xml contains all the dependencies which are needed in this project from MVN repository
  Dependencies include :
- Junit 4.12,selenium 3.11.0,cucumber-junit 1.2.5,cucumber-jvm 1.2.5,weddrivermanager 3.7.1
+ Junit 4.12,selenium 3.11.0,cucumber-junit 1.2.5,cucumber-jvm 1.2.5,weddrivermanager 3.7.1,Hamcrest 1.3
  plug ins:
  Maven-compiler-plugin 3.6.1,maven-surefire-plugin 2.21.0,maven-surefire-report-plugin 2.21.0
  
