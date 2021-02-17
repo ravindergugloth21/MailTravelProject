@@ -12,19 +12,18 @@ like searching for a product and selecting the
  Maven
  
  Framework
- BDD Cucumber With POM Design Pattern
+ BDD Cucumber 
  
  Reports
  Reports can be found in target/CucumberReports
  
  To Run Tests
-  Running Runcuketest (CucumberRunner )
+ CucumberRunner (CucumberRunner )
  
  **Design pattern
- Page Object Design model with page factory
+ Page Object Design model 
  
- GitHub to store my test scripts and integrated GitHub 
- repository in jenkins for continues integration.
+ GitHub to store my test scripts 
 
  **package structure**
  Drivers package contains the DriverFactory class(parameterized browser variable )
@@ -39,8 +38,8 @@ like searching for a product and selecting the
  Dependencies include :
  Junit 4.12,selenium 3.149.59,cucumber junit 1.2.5,cucumber jvm 1.2.5,Hamcrest 1.3,weddrivermanager 3.7.1
  plug ins
- cucumber jvm parallel plugin
- Readme.md â€“ uses markdown so that it can be read easily on github
+ 
+
 
  
  Note:Dependencies and plugins can be extended based on the project extension 
